@@ -6,7 +6,9 @@ Repository นี้รวมถึงลิงก์ไปยังชุดข
 
 สามารถพบชุดข้อมูลได้ที่ URL ต่อไปนี้:
 
-[Depression Dataset on Kaggle](https://www.kaggle.com/datasets/arashnic/the-depression-dataset?resource=download)
+[1. Depression Status of a Person Dataset on Kaggle](https://www.kaggle.com/datasets/arashnic/the-depression-dataset?resource=download)
+
+[2. Face Emotion of a Person Dataset on Kaggle](https://www.kaggle.com/datasets/tapakah68/facial-emotion-recognition)
 
 ## Description
 
